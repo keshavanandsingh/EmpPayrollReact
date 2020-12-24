@@ -1,0 +1,42 @@
+{
+  "EmployeePayrollDB": [
+    {
+      "id": 1,
+      "_name": "Mark",
+      "_gender": "male",
+      "_department": [
+        "Engineering",
+        "Finance"
+      ],
+      "_salary": "500000",
+      "_startDate": "29 Oct 2019",
+      "_note": "All In One",
+      "_profilePic": "../assets/profile-images/Ellipse-3.png"
+    },
+    {
+      "id": 2,
+      "_name": "Bill Gates",
+      "_department": [
+        "Enginner",
+        "Others"
+      ],
+      "_salary": "100000",
+      "_startDate": "2019-12-30T18:30:00.000Z",
+      "_note": "Terrific Engineer",
+      "_profilePic": "../assets/profile-images/Ellipse-3.png"
+    },
+    {
+      "_name": "Akram",
+      "_profilePic": "../assets/profile-images/Ellipse-2.png",
+      "_gender": "Male",
+      "_department": [
+        "HR",
+        "Sales"
+      ],
+      "_salary": "79000",
+      "_note": "fml",
+      "_startDate": "2020-10-30T18:30:00.000Z",
+      "id": 4
+    }
+  ]
+}
